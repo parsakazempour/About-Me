@@ -1,13 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-Welcome to my GitHub repository! Here you'll find a collection of my data analysis projects, showcasing my skills and expertise in the field. As a former oil and gas engineer and stakeholders manager, I have successfully transitioned my career to become a data analyst. This journey has allowed me to leverage my analytical mindset, problem-solving abilities, and strong attention to detail in a new and exciting way.
-About Me
+Hi there
+Welcome to my GitHub repository! 
+Here you'll find a collection of my data analysis projects, showcasing my skills and expertise in the field.
+As a former oil and gas engineer and stakeholders manager, I want to change my career to become a data analyst.
+This journey has allowed me to leverage my analytical mindset, problem-solving abilities, and strong attention to detail in a new and exciting way.
 
-With a solid background in engineering and stakeholder management, I bring a unique perspective to the world of data analysis. My experience in the oil and gas industry has honed my ability to work with complex datasets, extract valuable insights, and present them in a clear and concise manner. I have a passion for turning raw data into actionable information that drives informed decision-making.
+I have a passion for turning raw data into actionable information that drives informed decision-making.
+
 Projects
-
-In this repository, you'll find a selection of projects that highlight my skills in data analysis. Each project demonstrates my proficiency in using various tools and techniques, including but not limited to:
+In My profile, you'll find a selection of projects that highlight my skills in data analysis. 
+Each project demonstrates my proficiency in using various tools and techniques, including but not limited to:
 
     Data cleaning and preprocessing
     data analysis
