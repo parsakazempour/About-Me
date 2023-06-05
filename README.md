@@ -28,7 +28,7 @@ Throughout my projects, I have utilized a range of data analysis tools and techn
 
 Contact
 
-I'm always eager to connect with fellow data enthusiasts, industry professionals, and potential collaborators. If you have any questions, feedback, or opportunities, please feel free to reach out to me via [email address] or connect with me on [LinkedIn profile URL].
+I'm always eager to connect with fellow data enthusiasts, industry professionals, and potential collaborators. If you have any questions, feedback, or opportunities, please feel free to reach out to me via [parsa.kazempour@gmail.com] or connect with me on (https://www.linkedin.com/in/parsa-kazempour-60085a18b/)].
 
 Thank you for visiting my GitHub repository, and I hope you find my projects insightful and inspiring!
 <div id="badges">
