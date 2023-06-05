@@ -43,10 +43,8 @@ I'm always eager to connect with fellow data enthusiasts, industry professionals
 If you have any questions, feedback, or opportunities, please feel free to reach out to me via [parsa.kazempour@gmail.com] or connect with me at [(https://www.linkedin.com/in/parsa-kazempour-60085a18b/)].
 
 Thank you for visiting my GitHub repository, and I hope you find my projects insightful and inspiring!
-<div id="badges">
-  <a href="your-LinkedIn-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
+
 </div>
  :hammer_and_wrench: Languages and Tools :
  <div>
