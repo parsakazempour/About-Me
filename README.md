@@ -10,5 +10,5 @@
  <div>
 
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="file:///C:/Users/My%20Asus/Downloads/sql-file-format-svgrepo-com.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/13344/sql-file-format.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
