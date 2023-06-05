@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 Hi there
+
 Welcome to my GitHub repository! 
 Here you'll find a collection of my data analysis projects, showcasing my skills and expertise in the field.
 As a former oil and gas engineer and stakeholders manager, I want to change my career to become a data analyst.
