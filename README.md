@@ -10,29 +10,30 @@ Projects
 In this repository, you'll find a selection of projects that highlight my skills in data analysis. Each project demonstrates my proficiency in using various tools and techniques, including but not limited to:
 
     Data cleaning and preprocessing
-    Exploratory data analysis
-    Statistical analysis and hypothesis testing
+    data analysis
     Data visualization
-    Machine learning and predictive modeling
     Dashboard creation and reporting
 
 Technologies and Tools
 
 Throughout my projects, I have utilized a range of data analysis tools and technologies, including:
 
-    Python: Pandas, NumPy, Matplotlib, Seaborn
-    SQL and relational databases
+   
+    SQL 
+    Microsoft Excel
+    Python: Pandas, NumPy, Matplotlib
     Jupyter Notebook
     Tableau
-    R (optional)
+    Power BI
+    
 
 Contact
 
-I'm always eager to connect with fellow data enthusiasts, industry professionals, and potential collaborators. If you have any questions, feedback, or opportunities, please feel free to reach out to me via [parsa.kazempour@gmail.com] or connect with me on (https://www.linkedin.com/in/parsa-kazempour-60085a18b/)].
+I'm always eager to connect with fellow data enthusiasts, industry professionals, and potential collaborators. If you have any questions, feedback, or opportunities, please feel free to reach out to me via [parsa.kazempour@gmail.com] or connect with me at [(https://www.linkedin.com/in/parsa-kazempour-60085a18b/)].
 
 Thank you for visiting my GitHub repository, and I hope you find my projects insightful and inspiring!
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="your-LinkedIn-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
