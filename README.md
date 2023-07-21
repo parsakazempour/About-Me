@@ -7,7 +7,7 @@ Welcome to my GitHub repository!
 
 Here you'll find a collection of my data analysis projects, showcasing my skills and expertise in the field.
 
-As a former oil and gas engineer and stakeholders manager, I want to change my career to become a data analyst.
+My 10+ year career path has transitioned from oil and gas engineering to business, and data in both established companies, and startups. Equipped with a business-oriented mindset, and proficiency in data analysis tools, I have a proven record of driving business performance through data as a Stakeholder manager. As a skilled communicator and avid learner I’m continuously leveling up my expertise in data analysis as I’m eager to continue my career in this field.
 
 This journey has allowed me to leverage my analytical mindset, problem-solving abilities, and strong attention to detail in a new and exciting way.
 
